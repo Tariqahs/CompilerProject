@@ -6,4 +6,4 @@ This repository contains files that showcase my first project on GitHub.
 
 ## Installation
 
-Download the files for this project.
+Just Download the files for this project.
